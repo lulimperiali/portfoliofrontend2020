@@ -1,0 +1,241 @@
+
+@font-face{
+    src: url("..url/('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap'");
+    font-family: "MontserratSemiBold";
+}
+#img1{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.055);
+}
+#img2{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.055);
+}
+
+#img3{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.055);
+}
+
+#img4{
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0, 0, 0, 0.055);
+}
+
+#img1:hover{
+   
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    
+}
+#img2:hover{
+    
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    -webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+#img3:hover{
+    
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+    #img3:hover{
+    
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+       }
+
+       #img4:hover{
+    
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+       }
+.text {
+    animation-duration: 3s;
+    animation-name: slidein;
+    font-family: "Montserrat";
+    font-size: 20px;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+
+.background{
+    background-image: url("background.jpg");
+   
+}
+.bg2{
+    background-color:rgba(233, 225, 235, 0.726);
+    
+
+}
+.text{
+    color:white;
+    text-align: center;
+}
+.container-fluid{
+    color: white    ;
+    text-align: center;
+    padding-bottom:0;
+    box-shadow: black;
+    font-family: "montserrat";
+    
+}
+.nav-link{
+    color:white;
+
+}
+.bg5{
+   background-color: rgba(233, 225, 235, 0.698);
+   color: white
+   
+    
+}
+#icon{
+    color: white;
+    text-align: left;
+    size: 5em;
+}
+@import url("https://www.instagram.com/lulimperiali/");
+ 
+a:hover{
+    background-color:rgba(255, 255, 255, 0.438)
+
+ }
+ .ft14{
+     color:white; 
+     font-size: 30px;
+     
+
+ }
+ .col{
+     justify-content: center;
+     text-align: center;
+ }
+.container{
+    background-color: white;
+}
+form {
+    display: block;
+    margin-top: 0em;
+    size: 1em;
+  }
+
+
+a[href^="mailto:"]
+{ 
+    color: white;
+    justify-content: left;
+    text-align: left;
+    margin-left: auto;
+    padding: 1em;
+    padding-bottom: 1em;
+   }
+   .submit{
+       float: left;
+     }
+     footer{
+         padding: 0em;
+         padding-bottom: 0em;
+         margin-bottom: 0em;
+     }
+   p{
+       font-family: 'Raleway', sans-serif;
+   }
+   h1{
+       text-align: center;
+       justify-content: center;
+       font-family: "montserrat";
+       font-size: 3em;
+       color: #837EA6;
+       padding-bottom: 1em;
+   }
+   h2{
+       font-family: "montserrat";
+       color: #837EA6;
+       font-size: 3em;
+       animation-duration: 3s;
+       animation-name: slidein;
+       background-color: rgba(255, 255, 255, 0.589);
+   }
+   h4{
+       padding-top: 1em;
+       font-size: 1.5em;
+   }
+   h5{
+    padding-top: 1em;
+    font-size: 1.5em;
+}
+   h6{
+    padding-top: 1em;
+    font-size: 1.5em;
+} 
+.bg3{
+    color:white;
+
+}
+.widget{
+    color:white
+}
+.label{
+    color:white;
+    font-size: 1.5em;
+}
+.label2{
+    color:white;
+    font-size: 1.5em;
+    text-align: left;
+    margin-left: 0em;
+}
+#b{
+    color:white;
+    size: 1em;
+    font-size: 1em;
+    
+
+    }
+    .widget{
+        float: left;
+        
+    }
+
+ .form{
+clear: both;
+
+ }
+ .final{
+     padding-bottom: 0em;
+     margin-bottom: 0em;
+ }
+ .btn btn-outline-light{
+     padding-bottom: 2em;
+ }
